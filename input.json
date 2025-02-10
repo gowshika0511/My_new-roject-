@@ -1,0 +1,11 @@
+{
+    "name": "name",
+    "age": "age",
+    "email": "email",
+    "address": {
+        "street": "street",
+        "city": "city",
+        "postalCode": "postalCode"
+    },
+    "skills": ["skills"]
+}

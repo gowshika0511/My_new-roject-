@@ -1,0 +1,87 @@
+[
+    {
+        "name": "Jesus Christian",
+        "age": 33,
+        "email": "hamptonamanda@example.com",
+        "address": {
+            "street": "732 Kim Lodge Suite 605",
+            "city": "Kennethborough",
+            "postalCode": "30260"
+        },
+        "skills": [
+            [
+                "Air cabin crew",
+                "Higher education careers adviser",
+                "Tour manager"
+            ]
+        ]
+    },
+    {
+        "name": "Vincent Reyes",
+        "age": 48,
+        "email": "terry57@example.com",
+        "address": {
+            "street": "940 Robert Branch Apt. 855",
+            "city": "Port Nicolestad",
+            "postalCode": "75557"
+        },
+        "skills": [
+            [
+                "Chartered accountant",
+                "Printmaker",
+                "Programmer, multimedia"
+            ]
+        ]
+    },
+    {
+        "name": "Thomas Roberson",
+        "age": 55,
+        "email": "roberto72@example.com",
+        "address": {
+            "street": "31870 Matthew Burgs Suite 617",
+            "city": "North Donna",
+            "postalCode": "39536"
+        },
+        "skills": [
+            [
+                "Computer games developer",
+                "Air traffic controller",
+                "Company secretary"
+            ]
+        ]
+    },
+    {
+        "name": "Kelly Wolf",
+        "age": 33,
+        "email": "howellkristopher@example.org",
+        "address": {
+            "street": "081 Priscilla Parks",
+            "city": "Robertborough",
+            "postalCode": "89999"
+        },
+        "skills": [
+            [
+                "Dietitian",
+                "Outdoor activities/education manager",
+                "Sound technician, broadcasting/film/video"
+            ]
+        ]
+    },
+    {
+        "name": "Jacob Sims",
+        "age": 35,
+        "email": "josegrant@example.org",
+        "address": {
+            "street": "24514 Mike Rapid",
+            "city": "Alexberg",
+            "postalCode": "79185"
+        },
+        "skills": [
+            [
+                "Civil Service fast streamer",
+                "Investment analyst",
+                "Camera operator"
+            ]
+        ]
+    }
+]
